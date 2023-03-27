@@ -1,7 +1,8 @@
 ## PCT: Point Cloud Transformer
-This is a Pytorch implementation of PCT: Point Cloud Transformer.
+This is a Pytorch implementation of Class-Level Confidence Based 3D Semi-Supervised Learning
+.
 
-Paper link: https://arxiv.org/pdf/2012.09688.pdf
+Paper link: https://arxiv.org/abs/2210.10138
 
 ### Requirements
 python >= 3.7
@@ -37,12 +38,11 @@ python main.py --exp_name=test --num_points=1024 --use_sgd=True --eval=True --mo
 ### Citation
 If it is helpful for your work, please cite this paper:
 ```latex
-@misc{guo2020pct,
-      title={PCT: Point Cloud Transformer}, 
-      author={Meng-Hao Guo and Jun-Xiong Cai and Zheng-Ning Liu and Tai-Jiang Mu and Ralph R. Martin and Shi-Min Hu},
-      year={2020},
-      eprint={2012.09688},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{chen2023class,
+  title={Class-Level Confidence Based 3D Semi-Supervised Learning},
+  author={Chen, Zhimin and Jing, Longlong and Yang, Liang and Li, Yingwei and Li, Bing},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={633--642},
+  year={2023}
 }
 ```
