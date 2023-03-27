@@ -1,0 +1,10 @@
+--2022-02-01 10:04:22--  https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip
+Resolving shapenet.cs.stanford.edu (shapenet.cs.stanford.edu)... 171.67.77.19
+Connecting to shapenet.cs.stanford.edu (shapenet.cs.stanford.edu)|171.67.77.19|:443... failed: Connection timed out.
+Retrying.
+
+--2022-02-01 13:38:17--  (try: 2)  https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip
+Connecting to shapenet.cs.stanford.edu (shapenet.cs.stanford.edu)|171.67.77.19|:443... connected.
+ERROR: The certificate of ‘shapenet.cs.stanford.edu’ is not trusted.
+ERROR: The certificate of ‘shapenet.cs.stanford.edu’ has expired.
+The certificate has expired

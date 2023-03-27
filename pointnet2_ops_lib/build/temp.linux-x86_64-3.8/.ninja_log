@@ -1,0 +1,10 @@
+# ninja log v5
+0	11523	1640982785	/home/zhiminc/Current_work/Semi/PCT_Pytorch/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/group_points.o	b70b9dca2b9713f2
+0	11634	1640982785	/home/zhiminc/Current_work/Semi/PCT_Pytorch/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/ball_query.o	495cbd2b7fe0c32f
+0	11729	1640982785	/home/zhiminc/Current_work/Semi/PCT_Pytorch/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/interpolate.o	edd27018b247179b
+0	11787	1640982786	/home/zhiminc/Current_work/Semi/PCT_Pytorch/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/sampling.o	41219bbef5055dc2
+0	14728	1640982788	/home/zhiminc/Current_work/Semi/PCT_Pytorch/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/bindings.o	a85fa76d825cded6
+1	20084	1640982794	/home/zhiminc/Current_work/Semi/PCT_Pytorch/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/ball_query_gpu.o	180a3b5b148121a
+1	20146	1640982794	/home/zhiminc/Current_work/Semi/PCT_Pytorch/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/interpolate_gpu.o	70840077c2e3eb5
+1	20217	1640982794	/home/zhiminc/Current_work/Semi/PCT_Pytorch/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/group_points_gpu.o	d5b0500983dffcf1
+1	21089	1640982795	/home/zhiminc/Current_work/Semi/PCT_Pytorch/pointnet2_ops_lib/build/temp.linux-x86_64-3.8/pointnet2_ops/_ext-src/src/sampling_gpu.o	ec539cca5ca0487b
