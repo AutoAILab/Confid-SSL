@@ -3,6 +3,8 @@ This is a Pytorch implementation of Class-Level Confidence Based 3D Semi-Supervi
 
 Paper link: https://arxiv.org/abs/2210.10138
 
+Detection part: https://github.com/Zhimin-C/Confid-SSL-Det/tree/main
+
 ### Requirements
 python >= 3.7
 
