@@ -19,7 +19,6 @@ and
 ```shell script
 pip install pointnet2_ops_lib/.
 ```
-The code is from https://github.com/erikwijmans/Pointnet2_PyTorch https://github.com/WangYueFt/dgcnn and https://github.com/MenghaoGuo/PCT
 
 ### Models
 
