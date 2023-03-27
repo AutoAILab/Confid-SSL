@@ -1,6 +1,5 @@
-## PCT: Point Cloud Transformer
-This is a Pytorch implementation of Class-Level Confidence Based 3D Semi-Supervised Learning
-.
+## Class-Level Confidence Based 3D Semi-Supervised Learning
+This is a Pytorch implementation of Class-Level Confidence Based 3D Semi-Supervised Learning.
 
 Paper link: https://arxiv.org/abs/2210.10138
 
