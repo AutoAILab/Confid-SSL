@@ -22,7 +22,6 @@ pip install pointnet2_ops_lib/.
 The code is from https://github.com/erikwijmans/Pointnet2_PyTorch https://github.com/WangYueFt/dgcnn and https://github.com/MenghaoGuo/PCT
 
 ### Models
-We get an accuracy of 93.2% on the ModelNet40(http://modelnet.cs.princeton.edu/) validation dataset
 
 The path of the model is in ./checkpoints/best/models/model.t7
 
