@@ -24,6 +24,8 @@ pip install pointnet2_ops_lib/.
 
 The path of the model is in ./checkpoints/best/models/model.t7
 
+Pretrained model: https://drive.google.com/file/d/1PifGItW1m66AusCE4upVqxCabtjZTpgs/view?usp=sharing
+
 ### Example training and testing
 ```shell script
 # train
